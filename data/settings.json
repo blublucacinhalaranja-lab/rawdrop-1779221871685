@@ -1,0 +1,17 @@
+[
+	{
+		"save": "erectStages",
+		"name": "Erect Stages",
+		"type": "bool",
+		"description": "Activates the Erect version of the stages.",
+		"value": true
+	},
+	{
+		"save": "neneComboAnim",
+		"name": "Nene's Combo Animations:",
+		"type": "string",
+		"description": "Select how Nene should react to the combo, or turn it off.",
+		"value": "Psych",
+		"options": ["Psych", "Vanilla", "Disabled"]
+	}
+]
